@@ -47,7 +47,13 @@ I'm a data scientist working on AI systems where correctness, fairness, and safe
 
 ## Contact
 
-Find me on [GitHub](https://github.com/ghelaw01). For collaboration on responsible AI, healthcare AI governance, or security NLP, please open an issue on any project repository.
+## Contact & Profiles
+
+- **GitHub:** [github.com/ghelaw01](https://github.com/ghelaw01)
+- **Google Scholar:** [Zemen Matebe Ghelaw](https://scholar.google.com/citations?user=FiHyeMoAAAAJ&hl=en)
+- **ORCID:** [0009-0001-7023-0202](https://orcid.org/0009-0001-7023-0202)
+
+For collaboration on responsible AI, healthcare AI governance, or security NLP, please open an issue on any project repository.
 
 ---
 
